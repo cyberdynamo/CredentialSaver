@@ -1,6 +1,6 @@
 # CredentialSaver
 
-Web Application for saving your credentials locally or on a server of your choice if you have trust issues with organizations that offer credential saving services.<br>
+Web Application for saving your credentials locally or on a server of your choice if you have trust issues with organizations that offer credential saving services. [Current version doesn't encrypt passwords.]<br>
 Built with <strong>Node.js, Express.js, MongoDB and Bootstrap</strong>.<br><br>
 <strong>Version Information:</strong><br>
 <strong>Node.js</strong>: 16.0.0, 
